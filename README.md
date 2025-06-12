@@ -31,6 +31,7 @@ Audio denoising using bandpass filtering in MATLAB and Python. A simple project 
 ### 🧪 MATLAB-Specific
 - Uses a predefined bandpass filter (`bpfilter_design` usihg matlab builtin filterdesign gui)
 - Filters `project.wav` and writes `filtered.wav`
+- `stereo_mono.m` to convert my stereo `project.wav` file to mono type.
 
 ---
 
